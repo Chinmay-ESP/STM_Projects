@@ -17,6 +17,16 @@ This repo is a progressive set of exercises designed to take you from **beginner
 * Debounce push button using software
 * External interrupt (EXTI) → toggle LED
 
+### 🔹 Level 2: Intermediate (Timers + Interrupts)
+
+* LED blink using Timer interrupt (instead of HAL_Delay)
+*	Generate PWM signal on GPIO pin
+*	Control LED brightness with PWM (dimming)
+*	Servo motor control with PWM
+*	Use Input Capture to measure external pulse width
+*	Create a simple stopwatch using timer interrupt
+
+
 ---
 
 

@@ -1,5 +1,5 @@
 # ninja log v5
-2	256	7775460539762464	build.ninja	ad5a59e3075cb123
+2	256	7778006469471422	build.ninja	ad5a59e3075cb123
 42	483	7775469135648013	CMakeFiles/SW_LED.dir/startup_stm32f407xx.s.obj	b4c89de2a56ef8bf
 955	1821	7775469149201275	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj	7143bfba0291d36a
 16	973	7775469140634509	CMakeFiles/SW_LED.dir/Core/Src/main.c.obj	559cdacd37290ada

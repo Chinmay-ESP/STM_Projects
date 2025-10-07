@@ -1,0 +1,6 @@
+D:/STM_Projects/STM32_UART_Echo/build/Debug/CMakeFiles/STM32_UART_Echo.dir
+D:/STM_Projects/STM32_UART_Echo/build/Debug/CMakeFiles/edit_cache.dir
+D:/STM_Projects/STM32_UART_Echo/build/Debug/CMakeFiles/rebuild_cache.dir
+D:/STM_Projects/STM32_UART_Echo/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+D:/STM_Projects/STM32_UART_Echo/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+D:/STM_Projects/STM32_UART_Echo/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir

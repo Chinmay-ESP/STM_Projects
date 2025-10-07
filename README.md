@@ -26,6 +26,14 @@ This repo is a progressive set of exercises designed to take you from **beginner
 *	Use Input Capture to measure external pulse width
 *	Create a simple stopwatch using timer interrupt
 
+### 🔹 Level 3: Communication (UART, I2C, SPI)
+
+* Send "Hello STM32" via UART to PC terminal.
+*	UART echo program (receiver + send back).
+*	Control LED's Using UART Commands.
+*	UART with interrrupt (HAL_UART_RxCpltCallback).
+*	UART with DMA (continuous reception).
+
 
 ---
 

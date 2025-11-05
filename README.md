@@ -32,7 +32,6 @@ This repo is a progressive set of exercises designed to take you from **beginner
 *	UART echo program (receiver + send back).
 *	Control LED's Using UART Commands.
 *	UART with interrrupt (HAL_UART_RxCpltCallback).
-*	UART with DMA (continuous reception).
 *	I2C → Scan for connected devices.
 *	I2C → Read data from temperature sensor.
 *	I2C → Display text on OLED.

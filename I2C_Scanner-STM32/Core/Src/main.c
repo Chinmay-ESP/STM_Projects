@@ -33,6 +33,7 @@ int main(void)
       {
         printf("I2C device at address: 0x%02X\n", i);
         printf("Scan complete.\n\n");
+        HAL_GPIO_TogglePin(LED_GREEN_GPIO_Port, LED_GREEN_Pin);
         found = 1;
       }
     }

@@ -1,6 +1,6 @@
 # STM32F4 TMP102 Temperature Sensor Project
 
-This project demonstrates how to interface the **TMP102 temperature sensor** with an **STM32F4 microcontroller** using the HAL library. The system reads temperature data in Celsius and Fahrenheit over I2C, then prints it through UART. Additional helper drivers are included for UART printing and I2C device scanning.
+This project demonstrates how to interface the **TMP102 temperature sensor** with an **STM32F4 microcontroller** using the HAL library. The system reads temperature data in Celsius and Fahrenheit over I2C, then prints it through UART. Additional helper drivers are included for UART printing and I2C device scanning (STMCubeIDE).
 
 ---
 

@@ -1,0 +1,3 @@
+../TMP102/Src/TMP102.c:3:9:TMP102_ReadRawTemp	32	static
+../TMP102/Src/TMP102.c:24:7:TMP102_ReadTempC	24	static
+../TMP102/Src/TMP102.c:34:7:TMP102_ReadTempF	24	static
